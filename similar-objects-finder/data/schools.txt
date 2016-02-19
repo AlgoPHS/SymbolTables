@@ -1,0 +1,12 @@
+Name	Type	Temperature	RatingOf5
+Dominican	Rural	Hot	4
+North Pole	Rural	Cold	2
+France	Urban	Average	4
+Tuscany	Rural	Hot	1
+Princeton	Urban	Average	1
+Peru	Rural	Hot	4
+Mexico City	Urban	Hot	3
+Greenland	Rural	Cold	3
+Iceland	Rural	Cold	2
+Pyongyang	Urban	Average	4
+PhilLand	Urban	Cold	2
